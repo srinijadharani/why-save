@@ -1,5 +1,3 @@
-![](githubdocs/logo.png)
-
 # Introduction
 WhySave is a very basic app which opens WhatsApp conversation with any unsaved number.
 This might be extremely useful to a lot of people who keeps adding new numbers just to make a 5 min conversation or maybe to send some files. 
